@@ -24,8 +24,9 @@ MAIL_FROM_NAME=username//"${APP_NAME}"
 ```
 
 Run
-1. php artisan key:generate
-2. php artisan migrate
-3. php artisan serve
+```
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
 
--andok
