@@ -28,3 +28,4 @@ Run
 2. php artisan migrate
 3. php artisan serve
 
+>andok
